@@ -1,6 +1,6 @@
 # Pietro Acerbis
 
-COO at [gaja](https://trygaja.com). Before gaja, LinkedIn and Revolut, from BDR to AE.
+COO at [gaja](https://trygaja.com). Before gaja, BDR and then AE at LinkedIn and Revolut.
 
 I build go-to-market systems on Claude Code: the skills a team runs, the memory they run on, the brain every agent reads from. What works for us ends up here, free to copy.
 
