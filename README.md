@@ -4,11 +4,11 @@
 
 ### AI is only as good as the context it has access to. I build that context for a living.
 
-At [gaja](https://trygaja.com) we build the governed brain behind your AI. A company's context sits across its tools and in people's heads: gaja turns calls, docs, messages and processes into persistent memory that people and agents can securely rely on.
+At [gaja](https://trygaja.com) we build the governed brain behind your AI. A company's context sits across its tools and in people's heads: gaja turns calls, docs, messages and processes into persistent memory people and agents can securely rely on.
 
 With gaja MCP, companies can work from the same context, share skills, reduce token spend, deploy agents and monitor which knowledge is consulted, how often and by whom.
 
-On GitHub I share what we learn building it: the same skills, hooks and formats we use on our own brain, free to copy.
+On GitHub I share what we learn building it: the same frameworks, knowledge, and skills we use on our own brain, free to copy.
 
 **Co-founder & COO** @ [gaja](https://trygaja.com) · previously co-founded ProspeIQ · ex Revolut and LinkedIn
 
