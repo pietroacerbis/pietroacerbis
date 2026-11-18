@@ -16,4 +16,4 @@ A company's knowledge sits in the tools that produced it, and every AI agent rea
 
 ## Where I post
 
-[LinkedIn](https://www.linkedin.com/in/pietroacerbis-prospeiq/) · [trygaja.com](https://trygaja.com) · pietro@trygaja.com
+[LinkedIn](https://www.linkedin.com/in/pietroacerbis-gaja/) · [trygaja.com](https://trygaja.com) · pietro@trygaja.com
