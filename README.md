@@ -8,7 +8,7 @@ At [gaja](https://trygaja.com) we build the governed brain behind your AI. A com
 
 With gaja MCP, companies can work from the same context, share skills, reduce token spend, deploy agents and monitor which knowledge is consulted, how often and by whom.
 
-On GitHub I share what we learn building it: the same frameworks, knowledge, and skills we use on our own brain, free to copy.
+On GitHub I share what we learn building it: the same frameworks, plugins and skills we use on our own brain, free to copy.
 
 **Co-founder & COO** @ [gaja](https://trygaja.com) · previously co-founded ProspeIQ · ex Revolut and LinkedIn
 
