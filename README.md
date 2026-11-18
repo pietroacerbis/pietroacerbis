@@ -1,14 +1,14 @@
-![Pietro Acerbis, co-founder of gaja: go-to-market systems on Claude Code, in plain files you own](.github/cover.jpg)
+![Pietro Acerbis, co-founder and COO of gaja, the governed brain behind your AI](.github/cover.jpg)
 
 # Pietro Acerbis
 
-### Go-to-market systems on Claude Code, in plain files you own.
+### AI is only as good as the context it reads. I build that context.
 
-I build what a go-to-market team runs on Claude Code: the skills, the memory they read, the checks on what they write. What works for us at gaja ends up here, free to copy.
+At [gaja](https://trygaja.com) we build the governed brain behind your AI. A company's context sits across its tools and in people's heads: gaja connects calls, docs, messages and processes into one brain that learns how the company operates, with a source on every fact. The team and its agents work from the same context, and share the same skills.
+
+On GitHub I share what we learn building it: the formats, the skills and the checks we run on our own brain, free to copy.
 
 **Co-founder & COO** @ [gaja](https://trygaja.com) · ex Revolut and LinkedIn sales
-
-`4 free repositories` · `61 anti-slop patterns` · `24 tools I run every day`
 
 ## Start here
 
@@ -17,12 +17,8 @@ I build what a go-to-market team runs on Claude Code: the skills, the memory the
 - **[claude-code-daily](https://github.com/pietroacerbis/claude-code-daily)**: the Claude Code tools I use every day, by category, with the install lines and what each costs on every message.
 - **[claude-antislop](https://github.com/pietroacerbis/claude-antislop)**: keeps the tells of AI writing out of what Claude writes. 61 patterns in English and Italian, hooks on every file and reply, and a skill that rewrites a draft until it is clean.
 
-## What gaja does
-
-The governed brain behind your AI. gaja connects your stack into one brain that learns how your company operates: meeting notes, docs, messages, people knowledge and processes become memory your teams and agents can rely on.
-
 ## Where I post
 
 LinkedIn [in/pietroacerbis-gaja](https://www.linkedin.com/in/pietroacerbis-gaja/) · gaja on [LinkedIn](https://www.linkedin.com/company/gaja-brain/) · [trygaja.com](https://trygaja.com) · pietro@trygaja.com
 
-_currently: building gaja. The next free kit, on account tiering, comes out on 2026-12-03._
+_currently: building gaja._
