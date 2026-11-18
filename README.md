@@ -2,13 +2,15 @@
 
 # Pietro Acerbis
 
-### AI is only as good as the context it reads. I build that context.
+### AI is only as good as the context it has access to. I build that context for a living.
 
-At [gaja](https://trygaja.com) we build the governed brain behind your AI. A company's context sits across its tools and in people's heads: gaja connects calls, docs, messages and processes into one brain that learns how the company operates, with a source on every fact. The team and its agents work from the same context, and share the same skills.
+At [gaja](https://trygaja.com) we build the governed brain behind your AI. A company's context sits across its tools and in people's heads: gaja turns calls, docs, messages and processes into persistent memory that people and agents can securely rely on.
 
-On GitHub I share what we learn building it: the formats, the skills and the checks we run on our own brain, free to copy.
+With gaja MCP, companies can work from the same context, share skills, reduce token spend, deploy agents and monitor which knowledge is consulted, how often and by whom.
 
-**Co-founder & COO** @ [gaja](https://trygaja.com) · ex Revolut and LinkedIn sales
+On GitHub I share what we learn building it: the same skills, hooks and formats we use on our own brain, free to copy.
+
+**Co-founder & COO** @ [gaja](https://trygaja.com) · previously co-founded ProspeIQ · ex Revolut and LinkedIn
 
 ## Start here
 
